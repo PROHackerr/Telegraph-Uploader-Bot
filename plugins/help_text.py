@@ -8,7 +8,7 @@ async def start(client, message):
         chat_id=message.chat.id,
         text=Translation.START_TEXT.format(message.from_user.mention),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("💠 HELP 💠", callback_data="help"), InlineKeyboardButton("🔰 ABOUT 🔰", callback_data="about"), ],
-                                           [InlineKeyboardButton('⚜ Channel ⚜', url='https://telegram.me/My_Test_Botz'), InlineKeyboardButton('👨‍💻 Group 👨‍💻', url='https://telegram.me/Amani_m_h_d')]]),
+                                           [InlineKeyboardButton('⚜ Channel ⚜', url='https://telegram.me/My_Test_Botz'), InlineKeyboardButton('👨‍💻 Developer 👨‍💻', url='https://telegram.me/Amani_m_h_d')]]),
         reply_to_message_id=message.message_id
     )
 
