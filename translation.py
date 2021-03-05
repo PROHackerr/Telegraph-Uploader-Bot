@@ -1,24 +1,37 @@
 class Translation(object):
     START_TEXT = """
-Hello {}, I' am Media or File to `Telegra.ph` Link Uploader Bot.
+Hello {}, 
+I' am Media or File to Telegra.ph Link Uploader Bot.For more more click help 
 """
     HELP_USER = """
-<b><u>Help and Informations</u></b>
+<b>Hai, Follow these Steps..</b>
 
-➠ Just give me a media under 5MB.
-➠ Then I will download it.
-➠ I will then upload it to the `Telegra.ph` link.
+➠ <code>Just give me a media under 5MB.</code>
+➠ <code>Then I will download it.</code>
+➠ <code>I will then upload it to the `Telegra.ph` link.</code>
 """
 
     ABOUT_TEXT = """
-<b><u>Informations About Me</u></b>
+<b>Informations About Me</b>
 
-I am a Clone of @FnTelegraphBot. Please Join @FNPROJECTS Channel and @FayasChat Group.
+⭕️<b>My Name :</b> <Code>Telegraph Uploaded</code>
 
-Source Code :- https://github.com/FayasNoushad/Telegraph-Uploader-Bot
+⭕️<b>Language :</b> <code>Python3</code>
+
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+
+⭕️<b>Credits :</b> <code>Everyone in this journey</code>
+
+⭕️<b>Server :</b> <a href='https://herokuapp.com/'>Heroku</a>
+ 
+⭕️<b>Creator :</b> <a href='https://t.me/Amani_m_h_d'>Amani Muhammed</a>
+
+⭕️<b>Source Code :</b> 👉 <a href='http://t.me/nokkiirunnoippokittum'>Click Here</a>
+
+    📜<b>Quote :</b> <code>കിടന്ന് അടി വയ്ക്കരുത് എല്ലാർക്കും ഉപയോഗിക്കാൻ പറ്റും😌</code>"""
 """
     DOWNLOAD_TEXT = "<code>Downloading to My Server ...</code>"
-    UPLOADING_TEXT = "<code>Downloading Completed. Now I'am Uploading to telegra.ph Link ...</code>"
+    UPLOADING_TEXT = "<code>Downloading Completed. Now I'am Uploading to telegra.ph Link 🚀🚀 ...</code>"
     SOMETHING_WRONG = "Something Wrong! Click help button for more..."
     FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
