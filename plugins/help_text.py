@@ -17,7 +17,7 @@ async def help(client, message):
     await client.send_message(    
         chat_id=message.chat.id,
         text=Translation.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚙ Channel ⚙', url='https://telegram.me/My_Test_Botz'), InlineKeyboardButton('👨‍💻 Developer 👨‍💻', url='https://telegram.me/Amani_m_h_d'),],
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚜ Channel ⚜', url='https://telegram.me/My_Test_Botz'), InlineKeyboardButton('👨‍💻 Developer 👨‍💻', url='https://telegram.me/Amani_m_h_d'),],
                                            [InlineKeyboardButton("🔙 BACK", callback_data="home"), InlineKeyboardButton("ℹ️ ABOUT", callback_data="about"), InlineKeyboardButton("✖️ CLOSE", callback_data="close")]]),
         reply_to_message_id=message.message_id
     )
