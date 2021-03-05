@@ -28,8 +28,8 @@ I' am Media or File to Telegra.ph Link Uploader Bot.For more more click help
 
 ⭕️<b>Source Code :</b> 👉 <a href='http://t.me/nokkiirunnoippokittum'>Click Here</a>
 
-    📜<b>Quote :</b> <code>കിടന്ന് അടി വയ്ക്കരുത് എല്ലാർക്കും ഉപയോഗിക്കാൻ പറ്റും😌</code>"""
-"""
+    📜<b>Quote :</b> <code>കിടന്ന് അടി വയ്ക്കരുത് എല്ലാർക്കും ഉപയോഗിക്കാൻ പറ്റും😌</code>
+""
     DOWNLOAD_TEXT = "<code>Downloading to My Server ...</code>"
     UPLOADING_TEXT = "<code>Downloading Completed. Now I'am Uploading to telegra.ph Link 🚀🚀 ...</code>"
     SOMETHING_WRONG = "Something Wrong! Click help button for more..."
