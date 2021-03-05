@@ -1,7 +1,10 @@
 class Translation(object):
     START_TEXT = """
-Hello {}, 
-I' am Media or File to Telegra.ph Link Uploader Bot.For more more click help 
+<b>Hello {},</b>
+
+<b>I' am Media or File to Telegra.ph Link Uploader Bot 💯.</b>
+
+<b>For more more click help</b> 
 """
     HELP_USER = """
 <b>Hai, Follow these Steps..</b>
